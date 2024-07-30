@@ -1,6 +1,6 @@
 # Capstone-Project-Group-1
-## Analysis of the Economic Impact of Tourism in Southeast Asia
-We are a young group of economists working for the International bureau of tourism and we got a new assignment from our head of departmant to analyse the economic impact of tourism on the countries economy in the region of Southeast Asia.  
+## Effect of Community-based Initiatives on Crime in Seattle
+This project is EDA of the crime reports in Seattle in the context of 2 initiatives: MCPP(Micro-Community Policing Plans) and LEAD(Law Enforcement Assisted Diversion). It aims to evaluate the performance of the above mentioned initiatives through closer look at the crime reports and see how and if that is reflected in any way in the data.  
 
   ---
 Important links:  
